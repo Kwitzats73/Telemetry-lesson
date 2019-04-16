@@ -72,7 +72,7 @@ void loop() {
     // int xaxis = str_xaxis;
     //float str_xaxis;
 
-    int xaxis = str_xaxis.toInt();
+    int xaxis = str_xaxis.toInt();// converts string to integer
     int yaxis = str_yaxis.toInt();
     //float xaxis;
     //Serial.print(xaxis);
